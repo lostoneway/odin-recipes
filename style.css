@@ -1,0 +1,15 @@
+h1 {
+    color: royalblue;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline royalblue;
+}
+
+a:hover {
+    background-color: red;
+}
+
+p::selection {
+    background-color: yellow;
+}
